@@ -8,4 +8,4 @@ This is an implementation of Felix Roh's Famous Cube project originally built fo
 
 **HoloLens 1 & 2:**
 
-![Uploading RubikCubeHoloLens.gif…]()
+![RubikCubeHoloLens](https://user-images.githubusercontent.com/49875750/162359860-72c380dd-394b-4612-b0c3-f8f26abdf41c.gif)
